@@ -1,5 +1,4 @@
 .DS_Store
-.netlify/
 .vercel/
 node_modules/
 dist/
