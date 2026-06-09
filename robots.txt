@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sebastianparolini.it/sitemap.xml
+Sitemap: https://sosaai.github.io/sebastian-parolini-site/sitemap.xml
